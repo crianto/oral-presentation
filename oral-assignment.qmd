@@ -7,3 +7,7 @@ editor: visual
 # Introduction
 
 This is a collaborative project for ETC5513.
+
+
+# Additional Section
+This section was added after teammate started working.
